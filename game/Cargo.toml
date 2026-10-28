@@ -7,8 +7,7 @@ edition.workspace = true
 engine = { path = "../engine" }
 sim = { path = "../sim" }
 vm = { path = "../vm" }
-
-contract = { path="../contract" }
+contract = { path = "../contract" }
 
 [lints]
 workspace = true
