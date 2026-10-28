@@ -36,7 +36,7 @@ game → sim, engine, vm, contract
 ## 2. Коммиты и ветки
 
 * **Ветки.** Trunk-Based Development: короткоживущие ветки от `main`,
-  быстрое вливание обратно. Префиксы `feat/`, `bugfix/`, `chore/`.
+  быстрое вливание обратно. Префиксы `feat/`, `bugfix/`, `chore/`, `fix/`.
 * **Формат.** Conventional Commits: `тип(область): заголовок`.
   Область — имя крейта или `workspace`.
   Пример: `feat(engine): создание системного окна`.

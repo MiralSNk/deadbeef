@@ -4,7 +4,7 @@ version.workspace = true
 edition.workspace = true
 
 [dependencies]
-contract = { path="../contract" }
+contract = { path = "../contract" }
 
 [lints]
 workspace = true
