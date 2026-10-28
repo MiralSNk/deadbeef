@@ -1,0 +1,14 @@
+[package]
+name = "game"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+engine = { path = "../engine" }
+sim = { path = "../sim" }
+vm = { path = "../vm" }
+
+contract = { path="../contract" }
+
+[lints]
+workspace = true
